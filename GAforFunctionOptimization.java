@@ -8,6 +8,7 @@ public class GAforFunctionOptimization {
         int typeOfFunction = 1;
         Library.setTypeOfFunction(typeOfFunction);
         
+        // example of numOfVariable = 10, 100, 1000, 10000
         int numOfVariable = 10;
         Library.setNumOfVariable(numOfVariable);
         
